@@ -8,6 +8,7 @@ import EnquiryForm from "@/components/EnquiryForm";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import Review from "@/components/Review";
 export default function Home() {
-  return (<><Navbar /><main><Hero /><Services /><Destinations /><WhyUs /><Coaching /><EnquiryForm /><Contact /></main><Footer /><WhatsAppButton /></>);
+  return (<><Navbar /><main><Hero /><Services /><Destinations /><WhyUs /><Coaching /><Review/><EnquiryForm /><Contact /></main><Footer /><WhatsAppButton /></>);
 }
