@@ -8,7 +8,7 @@ export const SITE = {
   address: "SCO 11, 2nd Floor, Huda Complex, Opp. D.R.D.A, Near PNB Bank, Huda Market, DC Colony, Jind, Haryana 126102, India",
   url: "http://localhost:3000", // TODO: replace with your real domain after deploying
   // >>> TALLY CONFIGURATION: paste your Tally form ID here (the part after tally.so/r/ or tally.so/embed/) <<<
-  tallyFormId: "e5QbpE",
+  tallyFormId: "LDKDoz",
 };
 export const NAV = [["Home", "#home"], ["Our Services", "#services"], ["Destinations", "#destinations"], ["IELTS & PTE", "#coaching"], ["Contact", "#contact"]] as const;
 export const SERVICES = [
